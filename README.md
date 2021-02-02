@@ -1,5 +1,12 @@
 # Data challenge
 
+### Technologies
+- Python
+- Airflow
+- PostgreSQL  
+- Docker
+- docker-compose
+
 ### Infrastructure 
 - Airflow image: https://github.com/puckel/docker-airflow
 - PostgreSQL: https://hub.docker.com/_/postgres
